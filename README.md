@@ -1,5 +1,8 @@
 # Raspberry Pi 1 Alpine 3.6 Docker
 
+[![Build Status](https://travis-ci.org/offtechnologies/docker-arm32v6-base-image-alpine-qemu.svg?branch=master)](travis-ci.org/offtechnologies/docker-arm32v6-base-image-alpine-qemu)
+[![This image on DockerHub](https://img.shields.io/docker/pulls/offtechnologies/docker-arm32v6-base-image-alpine-qemu.svg)](https://hub.docker.com/r/offtechnologies/docker-arm32v6-base-image-alpine-qemu/)
+
 [offtechurl]: https://offtechnologies.gthub.io
 
 [![offtechnologies](https://raw.githubusercontent.com/offtechnologies/offtechnologies.github.io/master/logo.png)][offtechurl]
