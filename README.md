@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/offtechnologies/docker-arm32v6-base-image-alpine-qemu.svg?branch=master)](travis-ci.org/offtechnologies/docker-arm32v6-base-image-alpine-qemu)
 [![This image on DockerHub](https://img.shields.io/docker/pulls/offtechnologies/docker-arm32v6-base-image-alpine-qemu.svg)](https://hub.docker.com/r/offtechnologies/docker-arm32v6-base-image-alpine-qemu/)
+[![](https://images.microbadger.com/badges/image/offtechnologies/docker-arm32v6-base-image-alpine-qemu.svg)](https://microbadger.com/images/offtechnologies/docker-arm32v6-base-image-alpine-qemu "Get your own image badge on microbadger.com")
 
 [offtechurl]: https://offtechnologies.gthub.io
 
